@@ -1,8 +1,10 @@
-## CodeWars solutions
-This is a collection of some of my solutions to katas/problems on <a href="https://codewars.com">CodeWars</a>.
+## Codewars solutions
+This is a collection of some of my solutions to katas/problems on <a href="https://codewars.com">Codewars</a>.
 I like to write solutions that utilize JS's best/clever techniques and ES6's features/additions :) 
 
 This list is updated periodically. Entire set of solved problems can be found on <a href="https://www.codewars.com/users/moeishaa">my profile</a>.
+
+If you are a fellow JS/FE developer and have not participated on <a href="https://www.codewars.com">Codewars</a> before, I encourage you to try it. It is a great way to improve understanding and techniques of JS (no React/Angular/Vue/etc); not just by doing it but also being able to see other/best solutions.
 
 Kata | Solution
 -- | --
@@ -21,3 +23,12 @@ Kata | Solution
 [UriBuilder](https://www.codewars.com/kata/51eead3461ccf7db04000017) | [.js](src/uribuilder.js)
 [String Incrementer](https://www.codewars.com/kata/54a91a4883a7de5d7800009c) | [.js](src/string-incrementer.js)
 [Convert String to Camel Case](https://www.codewars.com/kata/517abf86da9663f1d2000003) | [.js](src/convert-camel-case.js)
+[Adding Big Numbers](https://www.codewars.com/kata/525f4206b73515bffb000b21) | [.js](src/adding-big-numbers.js)
+[MinMinMax](https://www.codewars.com/kata/58d3487a643a3f6aa20000ff) | [.js](src/minminmax.js)
+[Snail](https://www.codewars.com/kata/521c2db8ddc89b9b7a0000c1) | [.js](src/snail.js)
+[Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) | [.js](src/range-extraction.js)
+[Parsing Command Line Arguments](https://www.codewars.com/kata/55538e3de348a57f7e000076) | [.js](src/parsing-cmd-line.js)
+[Recover Secret String](https://www.codewars.com/kata/53f40dff5f9d31b813000774) | [.js](src/recover-secret-string.js)
+[Breadcrumb Generator](https://www.codewars.com/kata/563fbac924106b8bf7000046) | [.js](src/bread-crumb-generator.js)
+
+PS. I do not claim ownership of any of the information posted here. All copyrights belong to their respective owners.
